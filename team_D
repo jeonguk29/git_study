@@ -1,6 +1,10 @@
 team: D
 
+<<<<<<< HEAD
 manager: 도로로
+=======
+manager: 라로로
+>>>>>>> f38ad1a (team D modify)
 
 members:
 - 쿠루루
