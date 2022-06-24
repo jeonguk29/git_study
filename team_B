@@ -1,10 +1,6 @@
 team: B
 
-<<<<<<< HEAD
 manager: 구진구
-=======
-manager: 호진구
->>>>>>> 5f4dddd (modify teamB)
 
 members:
 - 노진구
