@@ -1,8 +1,14 @@
 team: D
 
+<<<<<<< HEAD
 manager: 라로로
+=======
+manager: 도로로
+>>>>>>> 65b0be1cfbafe684691d295111c6eea28b090513
 
 members:
 - 쿠루루
 - 기로로
 - 타마마
+- 가루루
+- 다루루
